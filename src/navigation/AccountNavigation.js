@@ -11,7 +11,7 @@ export default function AccountNavigation() {
       <Stack.Screen
         name="AccountTab"
         component={AccountScreen}
-        options={{ title: "Account" }}
+        options={{ title: "", headerTransparent: true }}
       />
     </Stack.Navigator>
   );

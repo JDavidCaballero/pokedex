@@ -60,9 +60,11 @@ const styles = StyleSheet.create({
     color: "#fff",
     fontWeight: "bold",
     fontSize: 27,
+    right: 7,
   },
   order: {
     color: "#fff",
     fontWeight: "bold",
+    right: 15,
   },
 });

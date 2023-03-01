@@ -19,3 +19,6 @@ export const POKEMON_TYPE_COLORS = {
   dark: "#705848",
   fairy: "#EE99AC",
 };
+
+export const FAVORITE_STORAGE = "favpokemons";
+export const LOGED_PERSISTENCE = "logManagement";
